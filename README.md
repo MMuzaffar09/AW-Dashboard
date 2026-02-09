@@ -28,11 +28,5 @@ DAX (Data Analysis Expressions)
 Data modeling using fact and dimension tables  
 Interactive charts, KPIs, and filters  
 
-How to Use  
-1. Download the Power BI file from this repository  
-2. Open it in Power BI Desktop  
-3. Connect or refresh the data source if required  
-4. Use filters and visuals to explore insights  
-
 Purpose  
 This dashboard was developed as part of a business intelligence learning project and to showcase practical Power BI skills, including data modeling, DAX calculations, and interactive reporting.
