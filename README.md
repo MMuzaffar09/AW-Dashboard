@@ -1,3 +1,12 @@
+Power BI Template  
+[Download template](BIPROJECT12.pbit)
+Dashboard Preview  
+![Dashboard Overview](AWDashboard.png)
+
+
+
+
+
 AW Customers Performance Dashboard – 2026
 
 Project Overview  
