@@ -1,10 +1,3 @@
-Project Files  
-The Power BI template used for this dashboard is available here:  
-[BI PROJECT 12.pbit](BI%20PROJECT%2012.pbit)
-
-Dashboard Preview  
-![Dashboard Screenshot](AW%20-%20Dashboard.png)
-
 AW Customers Performance Dashboard – 2026
 
 Project Overview  
@@ -30,3 +23,10 @@ Interactive charts, KPIs, and filters
 
 Purpose  
 This dashboard was developed as part of a business intelligence learning project and to showcase practical Power BI skills, including data modeling, DAX calculations, and interactive reporting.
+
+Project Files  
+The Power BI template used for this dashboard is available here:  
+[BI PROJECT 12.pbit](BI%20PROJECT%2012.pbit)
+
+Dashboard Preview  
+![Dashboard Screenshot](AW%20-%20Dashboard.png)
